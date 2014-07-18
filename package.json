@@ -1,0 +1,28 @@
+{
+  "name": "node-apc220",
+  "version": "0.0.1",
+  "description": "NodeJS module to connect to the RF APC220",
+  "main": "index.js",
+  "dependencies": {
+    "serialport": "^1.4.2",
+    "underscore": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorleal/node-apc220.git"
+  },
+  "keywords": [
+    "apc220",
+    "iot"
+  ],
+  "author": "Vitor Leal <vitorleal1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorleal/node-apc220/issues"
+  },
+  "homepage": "https://github.com/vitorleal/node-apc220"
+}
